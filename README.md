@@ -69,7 +69,7 @@ Drawing units are millimetres. General tolerances: linear ±0.01, angular ±0.5�
 ENGR 1025U, Summer 2025. Instructor: Naglaa Elagamy, PhD, P.Eng.
 
 - **Omar Islam** – SolidWorks modelling, engineering drawings, concept sketches
-- Mahmoud Ahmed (team lead)
+- Mahmoud Ahmed
 - Rania Al-Dilaimi
 - Syed Sharib Hashmi
 
