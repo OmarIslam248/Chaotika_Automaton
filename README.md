@@ -4,7 +4,7 @@ A hand-cranked mechanical automaton: a dog barks and wags its tail at a burning 
 
 Everything is driven by one hand crank, a shaft, and a few cams and followers. No gears, no electronics.
 
-<!-- Add a photo or GIF of the finished prototype here: ![Automaton](images/automaton.gif) -->
+![Prototype](images/prototype.png)
 
 ## How it works
 
