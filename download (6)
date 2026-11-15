@@ -1,0 +1,11 @@
+# SolidWorks temp/lock files
+~$*
+swx*.tmp
+*.tmp
+*.swp
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

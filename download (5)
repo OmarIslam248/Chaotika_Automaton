@@ -1,0 +1,9 @@
+# SolidWorks and CAD exports are binary
+*.SLDPRT binary
+*.SLDASM binary
+*.SLDDRW binary
+*.sldprt binary
+*.sldasm binary
+*.slddrw binary
+*.step binary
+*.stl binary
