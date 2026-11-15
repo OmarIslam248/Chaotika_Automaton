@@ -1,4 +1,4 @@
-# Chaotic Animal Fire Scene Automaton
+# Chaotika Automaton
 
 A hand-cranked mechanical automaton: a dog barks and wags its tail at a burning tree while a predator bird and two prey birds bob in the chaos. Designed and built for **ENGR 1025U – Engineering Design (Summer 2025)** at Ontario Tech University.
 
